@@ -4,7 +4,7 @@
 
 <br />
 
-<details> 
+<details open> 
   <summary><h2>🛠️ Languages and Tools</h2></summary>
 
   <h3>👨‍💻 Programming and Markup Languages</h3>
