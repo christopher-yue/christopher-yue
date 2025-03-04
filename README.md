@@ -1,6 +1,6 @@
 # Chris 👋
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christopher-yue&layout=compact">
+<img align="center" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christopher-yue&layout=compact">
 
 <br />
 
